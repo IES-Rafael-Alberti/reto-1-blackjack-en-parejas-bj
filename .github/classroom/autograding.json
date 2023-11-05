@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Pruebas unitarias del RETO",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -v .\\tests",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
